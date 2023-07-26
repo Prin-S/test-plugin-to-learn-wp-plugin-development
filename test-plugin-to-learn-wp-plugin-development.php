@@ -3,7 +3,7 @@
 /*
 Plugin Name: Test plugin to learn WP plugin dev
 Plugin URI: https://github.com/Prin-S/test-plugin-to-learn-wp-plugin-development
-Description: The plugin was created to help me learn WordPress plugin development. It displays a meta box below each post allowing you to add contributors (must be author, editor or administrator) to that post which. These contributors are then shown on the front-end.
+Description: The plugin was created to help me learn WordPress plugin development. It displays a meta box below each post allowing you to add contributors (must be author, editor or administrator) to that post. These contributors are then shown on the front-end.
 Author: Prin S
 Author URI: https://github.com/Prin-S
 Version: 1.0

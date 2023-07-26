@@ -6,7 +6,7 @@ Tested on: 6.2.2
 
 ## Description
 
-The plugin was created to help me learn WordPress plugin development. It displays a meta box below each post allowing you to add contributors (must be author, editor or administrator) to that post which. These contributors are then shown on the front-end.
+The plugin was created to help me learn WordPress plugin development. It displays a meta box below each post allowing you to add contributors (must be author, editor or administrator) to that post. These contributors are then shown on the front-end.
 
 ## Installation
 
